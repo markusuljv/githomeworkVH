@@ -1,4 +1,8 @@
 # githomeworkVH
 - today is friday!!
 - Today is saturday!!
-- today is sunday!!
+- Today is sunday!!
+- Today is monday!!
+- Today is tuesday!!
+- Today is wednesday!!
+- Today is thursday!!
