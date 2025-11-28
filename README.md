@@ -6,3 +6,4 @@
 - Today is tuesday!!
 - Today is wednesday!!
 - Today is thursday!!
+- today is friday!!
