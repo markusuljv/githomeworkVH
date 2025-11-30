@@ -7,3 +7,5 @@
 - Today is wednesday!!
 - Today is thursday!!
 - today is friday!!
+- Today is saturday!!
+- Today is sunday!!
