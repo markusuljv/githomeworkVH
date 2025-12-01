@@ -9,3 +9,4 @@
 - today is friday!!
 - Today is saturday!!
 - Today is sunday!!
+- Today is monday!!
