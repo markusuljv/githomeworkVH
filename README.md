@@ -10,3 +10,6 @@
 - Today is saturday!!
 - Today is sunday!!
 - Today is monday!!
+- Today is tuesday!!
+- Today is wedenesday!!
+- Today is thursday!!
