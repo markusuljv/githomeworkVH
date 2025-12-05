@@ -13,3 +13,4 @@
 - Today is tuesday!!
 - Today is wedenesday!!
 - Today is thursday!!
+- Today is friday!!
