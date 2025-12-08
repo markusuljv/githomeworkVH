@@ -15,3 +15,5 @@
 - Today is thursday!!
 - Today is friday!!
 - Today is saturday!!
+- Today is Sunday!!
+- Today is Monday!!
