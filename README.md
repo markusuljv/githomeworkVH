@@ -17,3 +17,4 @@
 - Today is saturday!!
 - Today is Sunday!!
 - Today is Monday!!
+- Today is tuesday!!
