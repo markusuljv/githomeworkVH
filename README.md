@@ -21,3 +21,4 @@
 - Today is wednesday!!
 - Today is friday!!
 - Today is saturday!!
+- Today is sunday!!
