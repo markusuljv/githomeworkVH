@@ -22,3 +22,7 @@
 - Today is friday!!
 - Today is saturday!!
 - Today is sunday!!
+- Today is monday!!
+- Today is tuesday!!
+- Today is wednesday!!
+- Today is thursday!!
