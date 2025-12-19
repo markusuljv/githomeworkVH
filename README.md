@@ -26,3 +26,4 @@
 - Today is tuesday!!
 - Today is wednesday!!
 - Today is thursday!!
+- Today is friday!!
