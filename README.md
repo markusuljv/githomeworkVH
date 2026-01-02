@@ -31,3 +31,6 @@
 - Today is sunday!!
 - Today is monday!!
 - Today is tuesday!!
+- Today is wednesday!!
+- Today is thursday!!
+- Today is friday!!
